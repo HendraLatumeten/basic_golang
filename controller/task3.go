@@ -10,7 +10,7 @@ type hitung struct {
 	r float64 //jari jari
 	//luas float64 // luas
 	phi float64 // phi
-	k   float64 //keliling
+	k   float64 //kelilingc
 	p   int
 	l   int
 	t   int
